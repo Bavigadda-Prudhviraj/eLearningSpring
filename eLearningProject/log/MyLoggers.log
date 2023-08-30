@@ -1,0 +1,323 @@
+07-10-2022 21:54:01 INFO - admin info
+07-10-2022 21:54:01 ERROR - admin error
+07-10-2022 21:54:01 WARN - admin warn
+07-10-2022 21:54:01 DEBUG - admin debug
+10-10-2022 23:09:04 INFO - admin deleted a course course Id 50
+10-10-2022 23:21:36 INFO - admin searched for course 51
+10-10-2022 23:22:05 INFO - admin searched for course 50
+10-10-2022 23:23:27 INFO - admin searched for course 50
+10-10-2022 23:25:36 INFO - admin searched for course 50
+10-10-2022 23:27:13 INFO - admin searched for course 50
+13-10-2022 00:52:46 INFO - admin viewed all the faculty members
+13-10-2022 01:00:22 ERROR - The administrator searched for a course with courseId::60that didn't exist
+13-10-2022 01:06:36 INFO - The administrator viewed the course details with the course ID:: 1
+16-10-2022 22:31:32 INFO - all faculty profiles  was viewed by the A list of admin
+16-10-2022 22:33:00 INFO - all faculty profiles  was viewed by the A list of admin
+16-10-2022 23:18:42 INFO - All Course details were viewed by admin
+17-10-2022 22:13:41 INFO - All Course details were viewed by admin
+19-10-2022 10:37:45 INFO - Logging in was done by the administrator
+19-10-2022 10:57:24 INFO - Logging in was done by the administrator
+19-10-2022 11:01:01 ERROR - Logging in with incorrect credentials was attempted by the administrator
+19-10-2022 11:01:03 ERROR - Logging in with incorrect credentials was attempted by the administrator
+19-10-2022 11:01:17 INFO - Logging in was done by the administrator
+19-10-2022 11:01:19 ERROR - Logging in with incorrect credentials was attempted by the administrator
+19-10-2022 11:02:12 ERROR - Logging in with incorrect credentials was attempted by the administrator
+19-10-2022 11:03:26 ERROR - Logging in with incorrect credentials was attempted by the administrator
+19-10-2022 11:06:34 ERROR - The administrator attempted to update his details with the wrong email address
+19-10-2022 11:06:49 INFO - The administrator updated his profile information
+19-10-2022 11:06:56 INFO - The administrator updated his profile information
+19-10-2022 11:10:36 INFO - More than one course was added by the administrator
+19-10-2022 11:11:12 INFO - More than one course was added by the administrator
+19-10-2022 11:14:03 INFO - More than one course was added by the administrator
+19-10-2022 11:14:10 ERROR - the case of multiple courses, the failed to add them administrator
+19-10-2022 11:14:14 ERROR - the case of multiple courses, the failed to add them administrator
+19-10-2022 11:14:21 INFO - More than one course was added by the administrator
+19-10-2022 11:17:53 ERROR - the case of multiple courses, the failed to add them administrator
+19-10-2022 11:18:39 ERROR - the case of multiple courses, the failed to add them administrator
+19-10-2022 11:22:28 INFO - Course details were updated with the course ID 1 by Course the administrator
+19-10-2022 11:25:12 ERROR - Courses with a course id 2222 that does not exist were attempted to be deleted by the administrator
+19-10-2022 11:25:31 ERROR - Courses with a course id 42 that does not exist were attempted to be deleted by the administrator
+19-10-2022 11:25:35 INFO - There is a course with the following ID 41 that has been deleted by admin 
+19-10-2022 11:28:03 ERROR - An administrator attempted to delete a faculty member with an invalid email address::ruafadhviraj@gmail.com
+19-10-2022 11:28:26 INFO - A faculty member with thisrudhviraj@gmail.com email address has been deleted by admin
+19-10-2022 11:38:17 INFO - The admin viewed the course details with the course ID:: 1
+19-10-2022 11:39:11 ERROR - The administrator searched for a course with courseId::77 that didn't exist
+19-10-2022 11:39:21 ERROR - The administrator searched for a course with courseId::77 that didn't exist
+19-10-2022 11:40:03 INFO - All Course details were viewed by admin
+19-10-2022 11:42:26 INFO - all faculty profiles  was viewed by the A list of admin
+
+19-10-2022 12:49:20 ERROR - Using the same email address as before, the student tried to register
+19-10-2022 12:49:36 INFO - All Course details were viewed by admin
+19-10-2022 12:49:43 INFO - All Course details were viewed by admin
+19-10-2022 12:54:03 ERROR - Using the same email address as before, the student tried to register
+19-10-2022 12:54:32 INFO - ThisKalyan@gmail.com email address has been successfully registered as a student for you
+19-10-2022 13:10:43 INFO - This Kalyan@gmail.com email address has been successfully registered as a student for you
+19-10-2022 13:27:43 INFO - Students using this Firdose@gmail.com email address logged in successfully
+19-10-2022 13:27:49 ERROR - Your email address is not listed in our database. You need to register as a student in order to login as student.
+19-10-2022 13:27:58 INFO - Students using this Firdose@gmail.com email address logged in successfully
+19-10-2022 13:28:02 DEBUG - The student with this Firdose@gmail.com email tries to log in with the wrong password.
+19-10-2022 13:28:07 INFO - Students using this Firdose@gmail.com email address logged in successfully
+19-10-2022 13:29:58 INFO - Students using this Firdose@gmail.com email address logged in successfully
+19-10-2022 13:46:55 WARN - When updating his details, a student uses the incorrect email address
+19-10-2022 13:47:16 INFO - His profile was successfully updated with this Kalyan@gmail.com email address
+19-10-2022 13:47:39 INFO - His profile was successfully updated with this Kalyan@gmail.com email address
+19-10-2022 14:10:19 INFO - Query is added succesfully
+19-10-2022 14:20:16 WARN - query is updated unsuccesfully whose id:: 1
+19-10-2022 14:20:53 WARN - query is updated unsuccesfully whose id:: 1
+19-10-2022 14:21:15 WARN - query is updated unsuccesfully whose id:: 1
+19-10-2022 14:21:36 INFO - query is updated succesfully whose id:: 17
+19-10-2022 14:26:12 INFO - query is updated succesfully whose id:: 18
+19-10-2022 14:26:19 WARN - query is updated unsuccesfully whose id:: 33
+19-10-2022 14:27:08 WARN - student tries to delete the query whci doesnt exist
+19-10-2022 14:37:49 ERROR - Trying to buy the courses,without registration as student
+19-10-2022 14:38:03 DEBUG - Trying to buy the courses which don't exist in the courses
+19-10-2022 14:47:31 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+19-10-2022 14:49:01 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+19-10-2022 14:50:10 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+19-10-2022 17:53:58 WARN - query is updated unsuccesfully whose id:: 77
+19-10-2022 17:54:23 INFO - Course rating is updated succesfully whose id:: 24
+19-10-2022 22:36:52 INFO - [FacultyService] - The faculty logged in
+19-10-2022 22:37:04 INFO - [FacultyService] - Faculty viewed all queryies
+19-10-2022 23:08:58 INFO - [AdminController] - all faculty profiles  was viewed by the A list of admin
+19-10-2022 23:09:01 INFO - [AdminController] - All Course details were viewed by admin
+19-10-2022 23:09:04 INFO - [AdminController] - The admin viewed the course details with the course ID:: 1
+19-10-2022 23:09:15 INFO - [AdminController] - The admin logged in
+19-10-2022 23:09:15 ERROR - A wrong password was used by the administrator to log in
+20-10-2022 02:44:29 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 02:44:38 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 02:46:10 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 02:46:12 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 02:47:29 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 02:53:19 INFO - [AdminController] - all faculty profiles  was viewed by the A list of admin
+20-10-2022 02:53:39 INFO - [AdminController] - all faculty profiles  was viewed by the A list of admin
+20-10-2022 02:53:42 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 02:57:03 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 02:57:45 INFO - [AdminController] - all faculty profiles  was viewed by the A list of admin
+20-10-2022 02:57:51 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 02:57:52 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 02:57:58 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 02:58:34 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 02:58:47 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 02:59:25 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 02:59:26 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 02:59:27 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 03:00:14 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 03:00:23 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 03:00:24 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 03:00:25 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 03:01:49 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 03:02:22 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 03:02:47 INFO - [AdminController] - all faculty profiles  was viewed by the A list of admin
+20-10-2022 03:02:48 INFO - [AdminController] - all faculty profiles  was viewed by the A list of admin
+20-10-2022 03:02:49 INFO - [AdminController] - all faculty profiles  was viewed by the A list of admin
+20-10-2022 03:02:50 INFO - [AdminController] - all faculty profiles  was viewed by the A list of admin
+20-10-2022 03:03:20 INFO - [AdminController] - The admin viewed the course details with the course ID:: 1
+20-10-2022 03:03:51 INFO - [AdminController] - The admin logged in
+20-10-2022 03:03:51 ERROR - [AdminService] - A wrong password was used by the administrator to log in
+20-10-2022 03:04:14 INFO - [AdminController] - The admin viewed the course details with the course ID:: 1
+20-10-2022 03:04:54 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 03:07:35 ERROR - [AdminController] - Logging in with incorrect credentials was attempted by the administrator
+20-10-2022 03:08:07 INFO - [AdminController] - all faculty profiles  was viewed by the A list of admin
+20-10-2022 03:08:11 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 03:08:26 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 03:15:21 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 03:15:31 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 03:15:38 INFO - [FacultyService] - Faculty viewed all queryies
+20-10-2022 10:49:53 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 15:41:04 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 15:41:09 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 15:41:10 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 15:41:10 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 15:41:11 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 15:41:42 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 15:41:43 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 15:41:43 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 15:41:44 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 15:41:52 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 15:42:24 INFO - [AdminController] - All Course details were viewed by admin
+20-10-2022 15:44:07 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+20-10-2022 15:48:33 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+20-10-2022 15:50:58 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+20-10-2022 15:50:58 DEBUG - Trying to buy the courses which don't exist in the courses
+20-10-2022 15:51:27 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+20-10-2022 15:53:31 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+20-10-2022 15:53:31 DEBUG - Trying to buy the courses which don't exist in the courses
+20-10-2022 15:57:19 INFO - Course rating is updated succesfully whose id:: 24
+20-10-2022 15:59:04 INFO - Course rating is updated succesfully whose id:: 24
+21-10-2022 11:17:33 INFO - [AdminController] - All Course details were viewed by admin
+21-10-2022 11:17:40 INFO - [AdminController] - all faculty profiles  was viewed by the A list of admin
+21-10-2022 11:18:07 INFO - [AdminController] - All Course details were viewed by admin
+21-10-2022 11:18:08 INFO - [AdminController] - All Course details were viewed by admin
+21-10-2022 11:18:14 INFO - [AdminController] - All Course details were viewed by admin
+21-10-2022 11:18:19 INFO - [AdminController] - All Course details were viewed by admin
+21-10-2022 11:18:23 INFO - [AdminController] - All Course details were viewed by admin
+21-10-2022 11:18:24 INFO - [AdminController] - All Course details were viewed by admin
+21-10-2022 11:18:55 INFO - [AdminController] - All Course details were viewed by admin
+21-10-2022 11:19:16 INFO - [AdminController] - All Course details were viewed by admin
+21-10-2022 11:20:25 INFO - [AdminController] - The admin logged in
+21-10-2022 11:20:25 ERROR - [AdminService] - A wrong password was used by the administrator to log in
+21-10-2022 11:21:25 INFO - [AdminController] - The admin logged in
+21-10-2022 11:21:36 INFO - [AdminController] - Course details were updated with the course ID 1 by Course the administrator
+21-10-2022 11:21:42 INFO - [AdminController] - Course details were updated with the course ID 1 by Course the administrator
+21-10-2022 11:21:55 ERROR - [AdminController] - Logging in with incorrect credentials was attempted by the administrator
+21-10-2022 11:22:08 INFO - [AdminController] - The administrator updated his profile information
+21-10-2022 11:23:12 INFO - [AdminController] - all faculty profiles  was viewed by the A list of admin
+21-10-2022 11:23:41 INFO - [AdminController] - The admin logged in
+21-10-2022 11:23:53 INFO - [AdminController] - All Course details were viewed by admin
+21-10-2022 11:23:57 INFO - [AdminController] - all faculty profiles  was viewed by the A list of admin
+21-10-2022 11:29:31 INFO - Course rating is updated succesfully whose id:: 24
+21-10-2022 11:29:45 INFO - [FacultyService] - Faculty viewed all queryies
+21-10-2022 11:29:59 INFO - Students using this Firdose@gmail.com email address logged in successfully
+21-10-2022 11:46:38 INFO - [AdminController] - The admin logged in
+21-10-2022 11:46:47 ERROR - [AdminController] - Logging in with incorrect credentials was attempted by the administrator
+21-10-2022 11:46:51 INFO - [AdminController] - The administrator updated his profile information
+21-10-2022 11:48:23 INFO - [AdminController] - All Course details were viewed by admin
+25-10-2022 17:17:24 INFO - [AdminController] - The admin logged in
+25-10-2022 17:17:37 INFO - [AdminController] - The admin logged in
+25-10-2022 17:17:37 ERROR - [AdminService] - A wrong password was used by the administrator to log in
+25-10-2022 17:17:46 INFO - [AdminController] - The admin logged in
+25-10-2022 17:17:46 ERROR - [AdminService] - A wrong email address was used by the administrator to log in
+25-10-2022 17:18:07 ERROR - [AdminController] - the case of multiple courses, the failed to add them administrator
+25-10-2022 17:18:17 INFO - [AdminController] - More than one course was added by the administrator
+25-10-2022 17:18:26 INFO - [AdminController] - All Course details were viewed by admin
+25-10-2022 17:18:42 INFO - [AdminController] - Course details were updated with the course ID 1 by Course the administrator
+25-10-2022 17:19:02 ERROR - [AdminController] - Courses with a course id 1999 that does not exist were attempted to be deleted by the administrator
+25-10-2022 17:19:11 INFO - [AdminController] - There is a course with the following ID 19 that has been deleted by admin 
+25-10-2022 17:19:50 INFO - Query is added succesfully
+25-10-2022 17:20:16 INFO - [FacultyService] - The faculty viewed the query with the query ID
+25-10-2022 17:20:48 INFO - [FacultyService] - An answer to a question was given by faculty
+25-10-2022 17:20:54 INFO - [FacultyService] - The faculty viewed the query with the query ID
+25-10-2022 17:23:32 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+25-10-2022 17:23:42 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+27-10-2022 21:43:57 INFO - [AdminController] - More than one course was added by the administrator
+27-10-2022 21:44:12 INFO - [AdminController] - More than one course was added by the administrator
+27-10-2022 21:44:52 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+27-10-2022 21:44:59 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+27-10-2022 21:46:33 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+27-10-2022 21:46:34 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+27-10-2022 21:48:19 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+27-10-2022 21:48:19 DEBUG - Trying to buy the courses which don't exist in the courses
+27-10-2022 21:48:32 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+27-10-2022 21:48:32 DEBUG - Trying to buy the courses which don't exist in the courses
+27-10-2022 21:48:34 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+27-10-2022 21:48:34 DEBUG - Trying to buy the courses which don't exist in the courses
+27-10-2022 21:48:39 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+27-10-2022 21:48:39 DEBUG - Trying to buy the courses which don't exist in the courses
+27-10-2022 21:49:02 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+27-10-2022 21:52:55 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+27-10-2022 21:53:52 INFO - His profile was successfully updated with this Kalyan@gmail.com email address
+27-10-2022 21:54:31 INFO - [AdminController] - More than one course was added by the administrator
+27-10-2022 21:58:11 INFO - [AdminController] - All Course details were viewed by admin
+27-10-2022 21:58:55 INFO -  student with Kalyan@gmail.com succesfully you purchased your courses succesfully 
+27-10-2022 22:02:41 ERROR - Trying to buy the courses,without registration as student
+27-10-2022 22:02:47 INFO -  student with kalyan@gmail.com successfully you purchased your courses succesfully 
+27-10-2022 22:07:13 INFO -  student with kalyan@gmail.com successfully you purchased your courses succesfully 
+29-10-2022 19:40:10 INFO - [AdminController] - The admin logged in
+03-11-2022 00:41:23 INFO - [AdminController] - All Course details were viewed by admin
+03-11-2022 01:43:29 INFO - [AdminController] - The admin viewed the course details with the course ID:: 1
+09-11-2022 21:51:54 INFO - [AdminController] - The admin logged in
+09-11-2022 23:07:38 INFO - [FacultyService] - The faculty viewed the query with the query ID
+09-11-2022 23:07:54 INFO - [FacultyService] - Faculty viewed all queryies
+09-11-2022 23:13:28 INFO - [FacultyService] - The faculty viewed the query with the query ID
+09-11-2022 23:19:58 INFO - [FacultyService] - The faculty viewed the query with the query ID
+09-11-2022 23:23:46 INFO - [FacultyService] - The faculty viewed the query with the query ID
+09-11-2022 23:23:57 INFO - [FacultyService] - The faculty viewed the query with the query ID
+09-11-2022 23:26:23 INFO - [FacultyService] - The faculty viewed the query with the query ID
+09-11-2022 23:26:59 INFO - [FacultyService] - The faculty viewed the query with the query ID
+09-11-2022 23:27:07 INFO - [FacultyService] - Faculty viewed all queryies
+09-11-2022 23:27:30 INFO - [FacultyService] - The faculty viewed the query with the query ID
+09-11-2022 23:36:50 INFO - [FacultyService] - The faculty logged in
+09-11-2022 23:39:03 INFO - [FacultyService] - The faculty logged in
+09-11-2022 23:39:04 INFO - [FacultyService] - The faculty logged in
+09-11-2022 23:42:31 INFO - [FacultyService] - The faculty logged in
+09-11-2022 23:42:39 INFO - [FacultyService] - Faculty viewed all queryies
+09-11-2022 23:45:05 INFO - [FacultyService] - The faculty logged in
+09-11-2022 23:50:34 INFO - [FacultyService] - The faculty logged in
+09-11-2022 23:50:45 INFO - [FacultyService] - The faculty viewed the query with the query ID
+09-11-2022 23:51:33 INFO - [FacultyService] - The faculty logged in
+09-11-2022 23:57:17 INFO - [FacultyService] - The faculty logged in
+09-11-2022 23:57:22 WARN - kalyan@gmail.com
+09-11-2022 23:57:58 INFO - [FacultyService] - An answer to a question was given by faculty
+09-11-2022 23:58:09 INFO - [FacultyService] - An answer to a question was given by faculty
+09-11-2022 23:58:31 INFO - [FacultyService] - An answer to a question was given by faculty
+10-11-2022 00:02:33 INFO - [FacultyService] - faculty updated his details
+10-11-2022 00:02:33 INFO - [FacultyService] - faculty updated his details
+10-11-2022 00:03:10 INFO - [FacultyService] - faculty updated his details
+10-11-2022 00:04:42 INFO - [FacultyService] - The faculty attempted to update his information, and it was successfully updated
+10-11-2022 00:04:58 WARN - kalyan@gmail.com
+10-11-2022 00:05:04 INFO - [FacultyService] - The faculty logged in
+10-11-2022 00:05:07 INFO - [FacultyService] - Faculty viewed all queryies
+10-11-2022 00:05:17 INFO - [FacultyService] - faculty updated his details
+10-11-2022 00:05:24 INFO - [FacultyService] - An answer to a question was given by faculty
+10-11-2022 00:06:36 INFO - [FacultyService] - An answer to a question was given by faculty
+10-11-2022 00:08:52 INFO - [FacultyService] - An answer to a question was given by faculty
+10-11-2022 00:09:10 INFO - [FacultyService] - The faculty viewed the query with the query ID
+10-11-2022 00:09:19 INFO - [FacultyService] - Faculty viewed all queryies
+10-11-2022 00:12:19 INFO - [FacultyService] - Faculty viewed all queryies
+10-11-2022 00:13:25 INFO - [FacultyService] - Faculty viewed all queryies
+10-11-2022 00:13:27 INFO - [FacultyService] - Faculty viewed all queryies
+10-11-2022 00:16:31 INFO - [FacultyService] - Faculty viewed all queryies
+10-11-2022 00:16:32 INFO - [FacultyService] - Faculty viewed all queryies
+10-11-2022 00:16:33 INFO - [FacultyService] - Faculty viewed all queryies
+10-11-2022 00:19:31 INFO - [FacultyService] - faculty updated his details
+10-11-2022 00:21:23 INFO - [FacultyService] - faculty updated his details
+10-11-2022 00:21:23 INFO - [FacultyService] - The faculty attempted to update his information, and it was successfully updated
+10-11-2022 00:22:15 INFO - [FacultyService] - faculty updated his details
+10-11-2022 00:23:27 INFO - [FacultyService] - faculty updated his details
+10-11-2022 00:23:50 INFO - [FacultyService] - faculty updated his details
+10-11-2022 00:27:28 INFO - [FacultyService] - faculty updated his details
+10-11-2022 00:28:18 INFO - [FacultyService] - faculty updated his details
+10-11-2022 00:28:57 INFO - [FacultyService] - Faculty viewed all queryies
+10-11-2022 00:29:58 INFO - [FacultyService] - Faculty viewed all queryies
+10-11-2022 00:29:59 INFO - [FacultyService] - Faculty viewed all queryies
+10-11-2022 00:30:00 INFO - [FacultyService] - Faculty viewed all queryies
+10-11-2022 00:30:31 INFO - [FacultyService] - Faculty viewed all queryies
+10-11-2022 00:30:35 INFO - [FacultyService] - Faculty viewed all queryies
+10-11-2022 00:30:36 INFO - [FacultyService] - Faculty viewed all queryies
+10-11-2022 00:32:47 INFO - [AdminController] - The admin logged in
+10-11-2022 00:32:53 INFO - [AdminController] - The admin logged in
+10-11-2022 00:34:58 INFO - [AdminController] - The admin logged in
+10-11-2022 00:35:04 INFO - [AdminController] - The admin logged in
+10-11-2022 00:36:09 INFO - [AdminController] - The admin logged in
+10-11-2022 00:36:10 INFO - [AdminController] - The admin logged in
+10-11-2022 00:36:11 INFO - [AdminController] - The admin logged in
+10-11-2022 00:36:44 INFO - [AdminController] - The admin logged in
+10-11-2022 00:36:45 INFO - [AdminController] - The admin logged in
+10-11-2022 00:37:01 INFO - [AdminController] - The admin logged in
+10-11-2022 00:41:54 INFO - [AdminController] - The admin logged in
+10-11-2022 00:41:56 INFO - [AdminController] - The admin logged in
+10-11-2022 00:41:57 INFO - [AdminController] - The admin logged in
+10-11-2022 00:42:16 INFO - [AdminController] - The admin logged in
+10-11-2022 00:42:28 INFO - [FacultyService] - The faculty logged in
+10-11-2022 00:45:07 INFO - [FacultyService] - Faculty viewed all queryies
+10-11-2022 00:45:15 INFO - [FacultyService] - The faculty logged in
+10-11-2022 00:46:09 INFO - [FacultyService] - The faculty viewed the query with the query ID
+10-11-2022 00:46:25 INFO - [FacultyService] - An answer to a question was given by faculty
+10-11-2022 00:46:38 INFO - [FacultyService] - faculty updated his details
+10-11-2022 01:11:44 INFO - [AdminController] - The admin logged in
+10-11-2022 01:11:47 INFO - [AdminController] - The admin logged in
+10-11-2022 01:11:48 INFO - [AdminController] - The admin logged in
+10-11-2022 01:12:08 INFO - [AdminController] - The admin logged in
+10-11-2022 01:12:10 INFO - [AdminController] - The admin logged in
+10-11-2022 01:12:10 INFO - [AdminController] - The admin logged in
+10-11-2022 01:12:11 INFO - [AdminController] - The admin logged in
+10-11-2022 01:12:15 INFO - [AdminController] - The admin logged in
+10-11-2022 01:12:16 INFO - [AdminController] - The admin logged in
+10-11-2022 01:12:38 INFO - [AdminController] - The admin logged in
+10-11-2022 01:13:18 INFO - [FacultyService] - The faculty viewed the query with the query ID
+10-11-2022 01:13:25 INFO - [FacultyService] - The faculty viewed the query with the query ID
+10-11-2022 01:13:29 INFO - [FacultyService] - The faculty viewed the query with the query ID
+10-11-2022 01:13:31 INFO - [FacultyService] - The faculty viewed the query with the query ID
+10-11-2022 01:13:32 INFO - [FacultyService] - The faculty viewed the query with the query ID
+10-11-2022 01:13:33 INFO - [FacultyService] - The faculty viewed the query with the query ID
+10-11-2022 01:13:34 INFO - [FacultyService] - The faculty viewed the query with the query ID
+10-11-2022 01:13:35 INFO - [FacultyService] - The faculty viewed the query with the query ID
+10-11-2022 01:13:38 INFO - [AdminController] - The admin logged in
+10-11-2022 01:13:39 INFO - [AdminController] - The admin logged in
+10-11-2022 01:14:30 INFO - [AdminController] - The administrator updated his profile information
+10-11-2022 01:14:51 INFO - [AdminController] - The administrator updated his profile information
+10-11-2022 01:14:58 INFO - [FacultyService] - The faculty logged in
+10-11-2022 01:15:08 INFO - [FacultyService] - The faculty logged in
+10-11-2022 01:15:17 INFO - [FacultyService] - The faculty logged in
+10-11-2022 01:15:18 INFO - [FacultyService] - The faculty logged in
+10-11-2022 01:15:48 INFO - [FacultyService] - The faculty logged in
